@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flask, Python**
 
-- 📫 How to reach me **stella.dsc0216@gmail.com**
+- 📫 How to reach me **stella.0216 (Discord)**
 
 - ⚡ Fun fact **I  think I'm not  good at developing ngl **
 
