@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I  think I'm not  good at developing ngl**
 
-- 👨‍💻 All of my projects are available at **[https://lunargate.xyz/](https://lunargate.xyz/)**
+- 👨‍💻 All of my projects are available at **[https://lunargate.xyz/github](https://lunargate.xyz/github)**
 
 - 📝 I regularly write articles on **[https://lunargate.xyz/join/no1](https://lunargate.xyz/join/no1)**
 
