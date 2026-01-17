@@ -1,4 +1,4 @@
-# Hi 👋, I'm TeamStella
+# Hi 👋, We're TeamStella
 
 ### We are developing discord's tools. To be the last one. ❤
 
@@ -6,25 +6,25 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TeamStella" alt="TeamStella" /></a> </p>
 
-- 🔭 I'm currently working on **EndRaider**
+- 🔭 We're currently working on **EndRaider**
 
-- 🌱 I'm currently learning **Node.js and Next.js**
+- 🌱 We're currently learning **Node.js and Next.js**
 
-- 👯 I'm looking to collaborate on **Open source projects**
+- 👯 We're looking to collaborate on **Open source projects**
 
-- 🤝 I'm looking for help with **Creating website with Next.js**
+- 🤝We're looking for help with **Creating website with Next.js**
 
-- 💬 Ask me about **Flask, Python**
+- 💬 Ask us about **Flask, Python**
 
-- 📫 How to reach me **stella_.0216 (Discord)**
+- 📫 How to reach us **stella_.0216 (Discord)**
 
-- ⚡ Fun fact **I  think I'm not  good at developing ngl**
+- ⚡ Fun fact **We think I'm not good at developing ngl**
 
-- 👨‍💻 All of my projects are available at **[https://lunargate.xyz/github](https://lunargate.xyz/github)**
+- 👨‍💻 All of our projects are available at **[https://lunargate.xyz/github](https://lunargate.xyz/github)**
 
-- 🔒 One of my secret **I play VRChat**
+- 🔒 One of my secret **I play VRChat** (not at all teammates, likelky endreached)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us:</h3>
 <p align="left">
 <a href="https://github.com/TeamStella" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="TeamStella" height="30" width="40" /></a>
 </p>
