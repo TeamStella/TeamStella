@@ -39,7 +39,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TeamStella&" alt="TeamStella" /></p>
 
 
-<h1>Description Who Doesn't know HeadOps' status</h1>
+<h1>Description For people Who Doesn't know HeadOps' status</h1>
 
 - HeadOps has quit development, no more updates will be supported
 
