@@ -41,7 +41,7 @@
 
 <h1>Description Who Doesn't know HeadOps' status</h1>
 
-- HeadOps' quit developing, so maybe no more update will supported.
+- HeadOps has quit development, no more updates will be supported
 
 <!--
 **TeamStella/TeamStella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
