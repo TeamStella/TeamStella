@@ -39,6 +39,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TeamStella&" alt="TeamStella" /></p>
 
 
+<h1>Description Who Doesn't know HeadOp's status</h1>
+
+- HeadOp's quit developing, so maybe no more update will supported.
 
 <!--
 **TeamStella/TeamStella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
